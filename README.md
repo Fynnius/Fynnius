@@ -1,18 +1,23 @@
-# Hi there 👋, I'm Fynn!
+# Fynn Auerbach
 
-## 🚀 About Me
-At the moment, I am studying to become a software developer with experience in a variety of programming languages and technologies. I love building projects and enjoy learning new skills.
+**IMS Aarau Student | Full-Stack Developer**
 
-- 🌱 I’m currently taking a look at AI and Machine Learning
-- 📫 Connect with Me on [X (Twitter)]([https://x.com/fyma72?s=21&t=3OwHs1MSMgtKBEh111J0vA])
+I’m currently navigating 45 lessons a week at IMS, which makes my time outside of class pretty valuable. I’ve been building since I was 10, moving from Scratch to architecting full-stack systems.
 
-## 📂 Featured Projects
-### [Self-Driving Model Car]
-A self-driving model car project that utilizes a Raspberry Pi as the computer for the neural network, which predicts the steering value, and an Arduino to get and send the different signals.
+### Right Now
 
-## 🎨 Hobbies & Interests
-- 🎸 Playing Guitar
-- 🐕 Taking my dog out
-- 🏞️ Hiking in the beautiful Switzerland
-- 👫 Meeting friends
-- 🎉 Going to parties
+* **Polymarket** & Autonomous Agents
+* **AI Contract Analysis**
+* **High-Performance Financial Tooling**
+* **Micro-SaaS Architecture**
+* **Market Scanning** & Data Processing
+
+### The Shift
+
+I built my self-driving car back when GPT-3.5 was the standard. It was a year of "manual" grind—debugging neural networks by hand and training models on 30,000 images. It was a lot of self-thinking and trial and error to get that car to complete a single lap.
+
+Today, I’m a heavy **Cursor** user. I leverage AI to move significantly faster, but I still rely on that "manual" foundation to actually understand what's happening under the hood.
+
+---
+
+[**Portfolio**](https://fyau.ch) • [**LinkedIn**](https://www.google.com/search?q=https://linkedin.com/in/fynnauerbach) • [**X**](https://www.google.com/search?q=https://x.com/fyma_dev)
