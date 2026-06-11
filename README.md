@@ -2,7 +2,7 @@
 
 **IMS Aarau Student | Full-Stack Developer**
 
-I’m currently navigating 45 lessons a week at IMS, which makes my time outside of class pretty valuable. I’ve been building since I was 10, moving from Scratch to architecting full-stack systems.
+I’m currently navigating 43 lessons a week at IMS, which makes my time outside of class pretty valuable. I’ve been building since I was 10, moving from Scratch to architecting full-stack systems.
 
 ### Right Now
 
@@ -16,7 +16,7 @@ I’m currently navigating 45 lessons a week at IMS, which makes my time outside
 
 I built my self-driving car back when GPT-3.5 was the standard. It was a year of "manual" grind—debugging neural networks by hand and training models on 30,000 images. It was a lot of self-thinking and trial and error to get that car to complete a single lap.
 
-Today, I’m a heavy **Cursor** user. I leverage AI to move significantly faster, but I still rely on that "manual" foundation to actually understand what's happening under the hood.
+Today, I’m a heavy **Cursor and ClaudeCode** user. I leverage AI to move significantly faster, but I still rely on that "manual" foundation to actually understand what's happening under the hood.
 
 ---
 
